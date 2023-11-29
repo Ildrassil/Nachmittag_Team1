@@ -52,7 +52,7 @@ class MethodsChallengesTest {
             assertEquals("HALLO TAMANA", actual);
     }
      @Test
-    public void checkIfPositiveTest_when0_thenReturnFalse() {
+    public void checkIfPositiveTest_when0_thenFalse() {
          // GIVEN
          int a = 0;
 
